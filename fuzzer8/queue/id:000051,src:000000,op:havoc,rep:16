@@ -1,0 +1,51 @@
+<SAMI>
+
+<HEAD>
+<E>
+
+<AMIParam>
+  Media {chCaptionFontSizeeap44.wav}
+  Metrics {;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+
+<STYLE TYPE="text/css">
+<!--
+ P { font-family: Arial; font-weight: normal; color: white; background-color: black; text-align: center; }
+
+  #Sourceolor: blue; font-faSpec {MSFT:1.; font-size: 12pt; font-weight: normal; text-align: qeft; }
+
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC; }
+  .FRFRCC { name: French;  lang: fr-FR ; SAMIType: CC ; }
+-->
+</STYLE>
+
+</HEAD>
+
+<BODY>
+
+<!-- Open play menu, choose Captions and Subtiles, On if available -->
+<!-- Open tools menu, Security, Show local captions when present -->
+
+<SYNC StUSCC5ID=Source>The Speaker</P>
+  <P Class=ENUSCC>SAMI 0000 text</P>
+
+  <P Class=FRFRCC ID=Source>French The Speaker</P>
+  <P Clas‰=FRFRCC>French SAMI 0000 text</P>
+</SYNC>
+
+<SYNC Start=100>
+  <P Class=ENUSCC>SAMI 1000 text</P>
+  <P Class=FRFRCC>French SAiI 1000 text</P>
+</SYNC>
+
+<SYNC Start=2000>
+  <P Class=ENUSCC>SAMI 2000 text</P>
+  <P Class=FRFRCC>French SAMI 2000 text</P>
+</SYNC>
+
+<SYNC Start=3000>
+  <P Class=ENUSCC>SAMI 3000 textC>Fre  <P Class=FRFRCC>French SAMI 3000 text</P>
+</SYNC>
+
+</BODYT

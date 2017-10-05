@@ -1,0 +1,50 @@
+<SAMI>
+
+<HEAD>
+<E>
+
+<SAMIParam>
+  Medinglish; lang: en-US ; SAMIa {cheap44.wav}
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+
+<STYLE TYPE="text/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-coFRCC>Fr÷nch SAMI 300gn: center; }
+
+  #Source {color: red; background-color: blue; font-family: Courier; font-size: 12pt; font-weight: nérmal; text-align: left; }
+
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+  .FRFRCC { name: French;  lang: fr-FR ; SAMIType: CC ; }
+-->
+</STYLE>
+
+</HEAD>
+
+<BODY>
+
+<!-- Open play menu, choose Captions and SubÉiles, On if available -->
+<!-- Open @ools menu, Security, ocal captions when present -->nnnnnnnnnnnnnnnnnn <P Class=ENUSCC ID=Source>The Speaker</P>
+  <P Class=ENUSCC>SAMI {0000 text</P>
+
+  <P Class=FRFRCC ID=Sourc>French The Speaker</P>
+  <P Class=FRFRCC>French SAMI 000
+</SYNC>
+
+ÄSYNC Start=1000>
+  <P Cl@ss=ENUSCC>SAMI 1000 text</P>
+  <P Class=FRFRCC>French SAMI 1000 text</P>
+</SYNC>
+
+<SYNC Start=2000>  SCC>SAMI 2000 text</P>
+  <P Class=FRFRCC>French SAMI 2000 text</P>
+</SYNC>
+
+<SYNC Start=3000>
+  <P Class=ENUSCC>SAMI 3000 text</P>
+  <P Class=FRFRCC>Fr÷nch SAMI 3000 text</P>
+</SYNC>
+
+</BODY>
+<

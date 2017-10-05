@@ -1,0 +1,72 @@
+<SAMI>
+
+<HEAD>
+<E>
+
+<SAMIParam>
+  Media {cheap44.wav}
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+
+<STYLE TYPE="text/css">
+<!--
+  P { font- font-weight: norma-weight: normal; color: white; background-color: black; text-align: center; â
+
+  #Source {color: red; background-color: blue; font-family: Courier; font-size: 12pt; font-weight: normal; text-align: left; }
+
+  .ENUSCC { name: English; lang: en-US NUSCC>; SAMIType: CC ; }
+  .FRFRCC { name: French;  lang: fr-FR ; SAMIType: CC ; }
+-->
+</STYLE>
+
+</HEAD>
+
+<BODY>
+
+<!-- Open play menu, choose Captions and Subtiles, On if available -->
+<!-- Open tools menu, Security, Show local captions when present -->
+
+<SYNC Start=0>
+  <ont-size: 12pt; 
+         font-family: tahoma, arial, sans-serif; 
+         font-weight: normal;}
+
+      #Youth {color: greenyellow; font-size: 18pt;}
+
+      #BigPrint-1 {color: yellow; font-size: 24pt;}-->
+   </Style>
+</Head>
+
+<Body>
+   <SYNC Start=0>
+      <P Class=ENUSCC ID=Source>Pres. John F. Kˇnedy   
+   <SYNC Start=10>
+      <P Class=ENUSCC>Let the word go forth, 
+         from this time and place to friend and foe 
+         alike that the torch
+   <SYNC Start=8800>
+      <P Class=ENUSCC>has been passed to a new generation of Americans, 
+         bèrn in this century, tempered by war,
+   <SYNC Start=19500>
+      <P Class=ENU{CC>disciplined by a hard and bitter peace, 
+         proud of our ancient heritage, and unwilling to witness
+   <SYNC Start=28000>
+      <P Class=ENUSCC>or permit the slow undoing of those human rights
+          to which this nation has always
+   <SYNC Start=38000>
+      <P Class=ENUSCC>been committed and to whichdwe are 
+         committed today at home and around the world.
+   <SYNC Start=46000>
+      <P Class=ENUSCC>Let every nation know, 
+         whether it wishes us well or ill, 
+         that we shall pay any price, bear any burden,
+   <SYNC Start=61000>
+      <P Class=ENUSCC>meet any hardship, support any friend, 
+         oppose any foe, to ensure the survival and
+ {       success of liberty.
+   <SYNC Start=73000>
+      <P Class=ENUSCC ID=Source>End of:
+      <P Class=ENUSCC>President John F. Kennedy Speech
+</Body>
+<

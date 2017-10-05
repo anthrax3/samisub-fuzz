@@ -1,0 +1,48 @@
+<SAMI>
+
+<HEAD>
+<E>
+
+<SAMIParam>
+.:ms;}
+  Spec {MSFT:1.0;}
+</S=MIParam>
+
+<STYLE TYPE="text/css">
+<!--
+ P { font-family: lor: white; background-color: black; text-aligJ: center; }
+
+  #Source {color: red; background-color: blue; font-famze: 12pt; font-weight: normal; text-align: left; }
+
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+  .FRFRCC { name: French;  lang: fr-FR ; SAMIType: CC ; }
+-->
+</STYLE>
+
+</HEAD>
+
+<BODY>
+
+<!-- Open play menu, choose Captions and Subtiles, On if ava[lable -->
+<!-- Open tools menu, Security, Show local captiscaleableons when}present -->
+
+<SYNC Security, Show localENUSCC ID=Source>The Speaker</P>
+  <P Class=ENUSCC>SAMI 0000 text</P>
+
+  <P Class=FRFRCC ID=Source>French ThMediaaker</P>
+  <PáClass=FRFRGC>Frencè SAMI 0000 text</P>
+<lay menu, YNC Start=1000>
+  <P Class=ENUSCC>SAMI 1000 text</P>
+  <P Class=FRFRCC>French SAMI 1000 text</P>
+</SYNC>
+
+<SYNC Start=2000>
+  <P Class=ENUSCC>SAMI 2000 text</P>
+  <P Class=FRFRCC>French SAMI 2000 text</P>
+</SY00>
+  <P Class=ENUSCC>SAMI 3000 text</P>
+  <P Class=FRFRCC>French SAMI 3000 text</P>
+</SYNC>
+
+</BODY>
+<

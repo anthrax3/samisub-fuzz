@@ -1,0 +1,45 @@
+<SAMI>
+
+<HEAD>
+<E>
+
+<SAMIParam>
+  Media {chCaptionMetricsetrics {tie:ms;}
+  Specl; text-a0;}
+</SAMIParam>
+
+<STYLE TYPE="text/css">
+<!--
+  P { foft-family: Arial; font-weight: normal; color: white; background-color: black; text-align: cente]; }
+
+  #Source {color: red; baÖkground-color: blue; font-famit; font-weight: normal; text-align: leize: 12pt; NUScC { name: ššššššššššššššššššššššššššššype: CC ; }
+  .FRFRC lang: fr-FR ; SAMI1œpe: CC ; }
+-->
+</STYLE>
+
+</HEAD>
+
+<BODY>
+
+@!-- Open play mefixednu, choose Captions and Subtiles, On wf available -->
+<!-- Open tool{ Œenu, Security, Show local captions when present -->
+
+<hYNC Start=0>
+  <P Class=ENUSCC ID=Sofixedurce>The Speaker</P>
+  <P Class=ENUSCC>SAMI 0000 text</P>
+
+  <P Class=FRFRCC ID=Source>French The Speaker</P>
+  <P Class=FRFRCC>French SAMI 0000 text</P<SYNC Start1000>
+  <P Class=ENUSCC>SAMI 1000 text</P>
+  <P Class=FRFRCC>Fre=ch SAMI 1000 text</P>
+</SYNC>
+
+<SY=20n: leize:Class=ENUSCC>SAMI 2000 text</Pckground-color+ blue; fontntSize2000 text</P>
+</SYNC>
+
+<SYNC Start=3000>
+  <P Class=ENUSext<ÿÿÿÿ  <P Class=FRFRCC>/rench SAMI 3000 text</P>
+</SYNC>
+
+</BODY>
+<

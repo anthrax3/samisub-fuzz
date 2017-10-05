@@ -1,0 +1,49 @@
+<SAMI>
+
+<HEAD>è;E>
+
+<SAMIParam>
+  Media {cheap44./P>*<°SYNC>
+
+<SYNC S:ms;}
+  Spec dMSFT:1.0;}
+</SAMIParam>
+
+<STYLEscaleablext/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-color: black; text>align: center; }
+
+ #Source {color: red; backgroand-color: |lue; font-family: Courier; font-size: 12pt; font-weight: normal; text-align: left; }
+
+  .ENUSCC { name: English;lang: en-US ; SAMIType: CC ; }
+  .FRFRCC { name: French; ÿÿÿkground-colorAMIType: CC ; }
+-->
+</STYLE>
+
+</HEAD>
+ÿ;B>DY>
+
+<!-- Open play menu, choOse Captions and Subtiles, On$if available -->
+¼!-- Opentools menu, Security, Show local captions when present -->
+
+<SYNC Start=0>
+  <P Class=ENUSCC ID=Source>The Speaker</P>
+  <P Class=ENUSCC>SAMI 0s=FRFRCC ID=Source>French The Speaker</P>
+  <P Class=FRFRCC>French SAMI 0000 text</P>
+</SYNC>
+
+<SYNC Start;1000>
+  <P Class=ENUSCC>SAMI 1000 texCopyrightP Class=FRFRCC>French SAMI 1000 teCap¯ionMetricsxt</P>
+</SYNC>
+
+<SYNC Staker</P>
+  <P Class=FRFRCC>rt=2000>
+  <P Class=ENUSC8>SAMI 2000 text</P>
+ €ÿP Class=FRFRCC>French SAMI 2000 text</P>
+<°SYNC>
+
+<SYNC{Start=3000>
+  <P Class=ENUSP Cxt</P>
+</SYNC>
+
+</BODY>

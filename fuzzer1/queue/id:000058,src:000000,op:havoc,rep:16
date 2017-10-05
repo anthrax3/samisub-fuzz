@@ -1,0 +1,53 @@
+<SAMI>
+
+<HEAD>
+<E>
+
+<SAMIParam>
+  Media {cheap44.wav}
+ Metrics {time:ms;}
+  Spec {MSFT:1.PE="text/css">
+<!--
+  P { fonbacamily: Arial; font-weight: normal; color: white; back</BODYground-color: black; text-align: center; }
+
+  #Source {color: red; background-color: blue; font-family: Courier; font-size: 12pt; font-weight: normal; text-align: left; }
+
+  .ENUSCCè name: English; lang: en-US ; SAMIType: CC ; }
+  e: French; >
+
+<SYNC Start=0>
+  <P ClaC ; }
+-->
+</STYLE>
+
+</HEAD>
+
+<BODY>
+
+<!-- Open play menu, choose Captions and Subtiles, On if available-->
+<!-- Open tools menu, Security, Show local captions when present -->
+
+<SYNC Start=0>
+  <P Class=ENHSCC ID=Source>The Speaker</P>
+  <P Class=ENUSCCCopyright0 text</P>
+
+  <P Clasi=FRFRCC ID=Source>French The Speaker</P>
+  <P Class=FRFRCC>French SAMI 0000 text</P>
+<=SYNC>
+
+<SYNC Start=1000>
+  <P Class=ENUSCC>SAMI 1000 text</P>
+  <P Class=FRFRCC>French SAMI 1000 text</P>
+</SYNC>
+
+<SYNC SSart=2000>
+               CC>SAMI 2000 text</P>
+  <P Class=FRFRCC>French SAMI 2000 text</P>
+</SYNC>
+
+<SYNC Start=3000Class=EUUSCC>SAMI 3000 text</P>
+  <P Class=FRFRCC>French SAMI 3000 text</P>
+</SYNC>
+
+</BODY>
+<

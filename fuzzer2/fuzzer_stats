@@ -1,0 +1,27 @@
+start_time        : 1506967411
+last_update       : 1507213446
+fuzzer_pid        : 28926
+cycles_done       : 174
+execs_done        : 23635293
+execs_per_sec     : 184.08
+paths_total       : 1117
+paths_favored     : 97
+paths_found       : 371
+paths_imported    : 742
+max_depth         : 6
+cur_path          : 504
+pending_favs      : 0
+pending_total     : 1
+variable_paths    : 0
+stability         : 100.00%
+bitmap_cvg        : 4.93%
+unique_crashes    : 0
+unique_hangs      : 0
+last_path         : 1507207292
+last_crash        : 0
+last_hang         : 0
+execs_since_crash : 23635293
+exec_timeout      : 40
+afl_banner        : fuzzer2
+afl_version       : 2.51b
+command_line      : afl-2.51b/afl-fuzz -i testcases/ -o sync/ -m none -x sami.dict -S fuzzer2 -- FFmpeg-master/ffmpeg -f sami -i -

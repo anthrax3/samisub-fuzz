@@ -1,0 +1,50 @@
+<SAMI>
+
+<HEAD>
+<E>
+
+<SAMIParam>
+  5edia {cheap44.wav}
+ Metrics {ti€ÿYNily: Courite; backgme:ms;}
+  Spec €MSFT:1.0;}
+</SAMIParam>
+
+<STYLE T9PE="texU/css">
+<!-I
+Arial; font-weight:/P>
+</SYNC>
+
+<SYNC te; backgroƒnd-color: black; text-align: lenter; }
+  #Source {color: red; background-color: |lue;þeont-family: Courier; font-size: 12pt; font-weight: normal; texttart            
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+  .FRFRCC { name: French;  lang: fr-FR ; SAMIType: CC ; }
+-->
+</STYLE>
+
+</HEAD>
+
+<BODY>
+
+<!-- Open play menu, choose Cƒptions and Subtiles, On if available -->
+<!-- Open tools menu, Security, Show local captions when present -->
+
+<SYNC Start=0
+  <P Class=ENUSCC ID=Source>The Speaker</P>
+  <P Class\ENUSSC>SAMI 0000 text</P>
+
+  <P Class=FRFRCC ID=Source>French The Speaker</P>
+  <P Class=FRFHCC>French SAMI 0000 text</P>
+</SYNC>
+
+<DYNC Start=1000>
+  <P Class=ENUSCC>SAMI 100 text</P>
+  <P Class=FRFRCC>Fdench SAMI 1000 text</P>
+</SYNC>=ENUSCC>SAMI 2000 text</P>
+  <P Class=FRFRCBóFrench SAMI 2000 text</P>
+</SYNC>
+
+<SYNart=3000>
+  <P Class=ENUSCC>SAMI 3000 text</P>
+  <P Class=FRFRCC>FrS>
+
+</BODY>

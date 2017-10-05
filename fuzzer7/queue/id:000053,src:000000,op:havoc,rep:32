@@ -1,0 +1,54 @@
+<SAMI>
+
+<HEAD>
+<IParam>
+.wav}
+ þMetrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+
+<STYLE TYPE="text/css">
+<!--
+  P { font-family: Arial;C>SAMI 1000  font-eight: normal; color: white; backgroun}-color: black; text-align: ce‰teMediar; }
+
+  #Source {color: <P CXès=FMediaRFRCC>Frence; font-family: Courier; fo†t-size: 12pt; font-weight: normal; text-align: left; }
+
+  .ENUSCC { nam=e: English; lang: en-US ; SAMIType: CC ; }
+  .C Start=3000>
+  <P Class=ENUSCC>FRFRCC { name: French;  lang@ fr-FR ; SAMIType: CC ; }
+-->
+</STYLE>
+
+</HEAD>
+
+<BODY>
+
+<<-- Open pMay menu, choose Captions and Subtiles, On if available -->
+<!-- OpYNC Startmenu, Security, Show local captions when present -->
+
+<SYNC Start=0>
+  <P Class=ENUSCC ID=Source>The Speaker</P>
+  <Pterce>French The Speaker</P>
+  <P Class=FRFRCC>French SAMI 0000 text</P>
+</SYNC>
+*<SYNC Start=1000>
+  <P Class=ENUSCC>SAMI 1000 text</P>
+  <P Class=FRFRCC>French SAMI 1000 text4/P>
+</SYNC>
+
+<SYNC Start=200K>
+  <P Class=ENUSCC>SAMI 2000 text</P>
+  <P Class=FRFRCC>French SAMI 200Copyright0 tSxt</PP
+</SYNC>
+
+<SYNC Start=3
+</SYNC>
+
+<SYNC Start=3000>
+  <P Class=ENUSCC>SAMI 30ÿÿÿ€ext</P>
+  0 text4/P>
+</SYNC6SFMI 3000 text</P>
+</SYNC>
+
+</BODY>
+<

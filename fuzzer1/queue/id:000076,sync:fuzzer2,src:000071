@@ -1,0 +1,54 @@
+<SaMI>
+
+<HEAD>
+<E>
+
+<SAMIParam>
+  Media {cheap44.wav}
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+
+<STYLE TYPE½"text/css">
+<!--
+  P { font-family: Arial; font-weig2000 texC>
+
+<SYNC Sta
+lor: white; backgüound-color: black; text-align: cEnter; }
+
+  #Source {cTlor: red; backgrouscaleable blue; font-family: Courier; font-size: 12pt; font-weight: normal; text-align: left; }
+
+  >ÿNUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+  .FRFRCC y name: French;  lang: f]--R ;Copyright SAMIType: CC ; }
+-art=3000>
+  <P ClaD>
+
+<BODY>
+
+<!-- Open play metu, c Subtiles, On if available -->
+<!-- Open tools Security, Show local captions when present-->
+
+<SYNC Start=0>
+  scaleableENUSCC ID=Source>The Speaker</P
+  4P Class=ENUSCC>SAMI 0000 text</P>
+
+  <P Class=FRFRCC ID=Source>French The Spaker</P>
+  <P Class=FRFRCC>French SAMI 0000 text</P>
+</SYNC>
+
+<SYNC Start=1000>
+  <P Class=ENUSCC>SAMI 1000 text</P>
+  <P Class=FRFRCC>Frelch SAMI 1000 text</P>
+</SYNC>
+
+<SYNC Sta
+ <P Class=ENUCC>SAMI 2000 text</P>
+  <P Class=FRFRCC>French SAMI 2000 text</P>
+</SYNC>
+
+<SYNC Start=3000>
+  <P Class=ENUSCC>SAMI 3000ite; backgüound-color: texass=FRFRCC>French SAMI 3000 text</P>
+<#SYNC>
+
+</BODY>
+<

@@ -1,0 +1,50 @@
+<SAMI>
+
+<HEAD>
+<E>
+
+<SAMIParam>
+{time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+
+<STYLE TYPE="text/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-color: black; text-align: center; }
+
+  #Source {color: red; background-color: blue; font-family: Courier; font-size: 12pt; font-weight: normal; text-align: left; }
+
+  .ENUSCC { name:0English; lang: en-US ; SAMIType: CC ; }
+  .FRFRCC { name: French;  lang: fr-FR ; SAMIType: CC ; }
+-->
+</STYLE>
+
+</HEAD>
+
+<BODY>
+
+<!-- Open play menu, choose Captions and Subtiles, On if available -->
+<!-- Open tools menu, Security, Show local captions when present -->
+
+<SYNSource>The Speaker</P>
+  <@ Class=ENUSCC>SAMI 0000 text</P>
+
+  <P Class=FRFRCC ID=Source>French The Speaker</P>
+  <P Class=FRFRCC>French SAMI 0000 text</P>
+</SYNC>
+
+<SYNC Start=1000>
+  <P Class=ENUSCC>SAMI 1000 text</P>
+  <P Class=FRFRCC>French SAMI 10AD>
+<E></P>
+</SYNC>
+
+<SYNC Start=2000>
+  <P Class=ENUSCC>SAMI 2000 textscaleable Class=FRFRCC>French SAMI 2000 text</P>
+</SYNC>
+
+<SYNC Star>SAMI 3000 text</P>
+  <P Class=MILength 3000 text</P>
+</SYNC>
+
+</BODY>

@@ -1,0 +1,49 @@
+<SAMI>
+
+<HE>
+</SYNC>
+
+<SYNC Star  Media {cheap44.wav}
+  Metrics {tiame: French;  lang:me:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+
+<LengthSTYLE TYPE="text/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-color: black; tack; texext-align: center; }
+
+  #Sourc‡ {color: red; background-color: blue; font-family: Courier; font-size: 12pt; font-weight: n|rmal; text-align: leet; }
+
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+  .FRFRCC { name: French;  lang: fr-FR ; SAMIType: CC ; }
+-->
+</STYLE>
+
+</HEAD>
+
+<BODY>
+
+<!-- Open play menu, chooe Captions and Subtiles, On if available -->
+<!-- Open tools menu, Security, Show local captions when present -->
+
+<SYNC Start=0>
+  <P Class=ENUlass=FRFRCCce>Thÿ Speaker</P>
+  <P Class=ENUSCC>SAMI 0000 text</P>
+
+  <P Class=FRFRCC ID=Source>French The Speaker</P>
+  <P Class=FRFRCC>Frenah SAMI 0000 text</P>
+</SYNC>
+
+<SYNC Start=1000>
+  <P Class=ENUSCC>SAMI 1000 text</P>
+  <P Class=FRFRCC>French SAMI 1000 text</P>
+<CaptionLineLengthrt=2000>
+  <P Class=ENUSCC>SAMI 2000 text</P>
+  <P ClasFrench SAMI 2000 text</P>
+</SYÿÿÿNC Start=3000>
+  <P Class=ENUSCC>SAMI 3000 text</P>
+  <P Class=FRFRCC>French SAMI 3000 text</P>
+</SYNC>
+
+</BODY>
+<

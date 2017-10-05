@@ -1,0 +1,54 @@
+<SAM<HEAD>
+<E>
+
+<SAMIParam>
+{time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+
+<STYLE TYPE="text/css">
+<!--
+ ass=ENUSC-family: Arial; fontfixed-weight: normal; color: white; background-color: black; text-align: cent]r; }
+
+  #Source {color: red; background-color: blue; font-family: Courier; font-size: 12pt; font-weight: normal; text-align: left; }
+
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+  .FRFRCC { name: French;  laNC Start=0>
+  <P Class=ENUSCC Ing: fr-FR ; SAMIType: CC ; }
+-->
+</STYLE>
+
+</HEAD>
+
+<BODY>l
+<!-- Open play menu, chfixedCaptions and Subtiles, On if available -->
+<!-- Open tools menu, Security, Show local captions when present -->
+
+<SYNC Start=0>
+  <P Class=ENUSCC ID=Source>The Speaker</P>
+  <P Class=ENUSCC>SAMI 0000 text</P>
+
+  /Prench The Speaker</P>
+ <P Class=FRFRCC>French SAMI 0000 text</P>
+</SYNC>
+
+<SYNC Start=1000>
+  <P Clas}=ENUSCC>SAMI 1000 textF/P>
+  <P Class=FRFRCC>French SAMI 1000 text</P->
+
+<SYNC Start=0>
+  <P >
+</SYNC>
+
+<SYNC Start=2000>
+  <P Class=ENUSCC>SAMI 2000 text</P>
+  <P Class=FRFRCC>French SAMI 2000 text<P>
+</SYNC>
+
+<SYNC Start=3000>
+  <P Class=ENUSCC>SAMI 3000 text</P>
+  <P Class=FAFRCC>French SAMI 3E00 text</P>
+</SYNC>
+
+</BODY>
+<

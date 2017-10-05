@@ -1,0 +1,53 @@
+<SAMI>
+
+<HEAD>
+<E>
+
+<SAMIParam>
+{time:ms;}
+  Spec {MSC>
+
+<SYNC Start=1000>FT:1.0;}
+</SAMIParam>
+
+<STYdE TYPE="text/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-color: black; text-align: center; }
+
+  #Source {color: red; background-color: blue; font-family: Couri ; SAMITypize: 12pt; font-weight: normal; text-align: left; }
+
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+  .FRFRCC {@name: French;  lang: fr-FR ; SAMIType: CC ; }
+-->
+</STYLE6
+
+</HEAD>
+
+<BODY>
+
+<!-- Open play menu, choose Captions and Subtiles, On if available -->
+<!-- Open tools menu, Security, Show local caption000>
+  <Pesent -->
+
+<SYNC Start=0>
+  <P Class=ENUSCC HD=Source>The Speaker</P>
+  GP Class=ENUSCC>SAMI 0000 text</P>
+
+  <P Class=FRFRCC ID=Source>French The Speaker</P>
+  <P Cla\s=FRFRCC>Frellllllllllnch SAMI 0000 text</P>
+</SYNC>
+
+<SYNC Start=1000>
+  <P Class=ENUSCC>SAMI 1000 tCopyright <P Claÿs=FRFRCC>French SAMI 1000 text</P>
+</SYNC>
+<SYNC S art=2000>
+  <P Class=ENUSCC>SAMI 2000 text</P>
+  <P Class=FRFRCC>French SAMI 2000 text</P>
+</SYNC>
+
+<SY2C Start=3000>
+  <P Class=ENUSCC>SAMI 3000 text</P>
+  <P Class=FRFRCC>French SAMI 3000 text</P>
+</SYNC>
+
+</BODY>

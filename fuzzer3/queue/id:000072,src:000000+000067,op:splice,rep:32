@@ -1,0 +1,45 @@
+<SAII>
+
+<HEAD>
+<  Media {cheap44.wav}
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParad>
+
+<STYLE TYPE="text/css">
+<!--
+  P { font-family: Arial; fontKweight: normal; colo‚: white; baDkground-color: black; text-align: center; }
+
+  #Source {color: red; background-color:(blue; fontDfamily: Courier; font-size: 12pt; font-weight: normal; tešt-align: left; }
+
+  .ENUSCC { na_e: English; lang: en-UMIType: CC ; }
+  .FRFRCC { name: French;  lang: fr-FR ; SAMI ype: CC; }
+-->ÿ</STYLE>
+</HEAD>
+
+<BODY>
+
+<!-- Open play menu, choose Captions and MediaSubtiles, scaleableilable -->
+<!-- Open tools menu, Security, Show local captions when present -->
+
+<SYNC D=Source>The Speaker</P>
+  <P Class=ENUSCC>SAMI 0000 text</P>
+
+ch The Speaker</P>
+  <P Class=FRFRCC>/rench SAMI 0000 text?/P>
+</SYNC>‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡CaptionFontSize000>
+  <P Class=ENUSCC>SAMI 1000 texCopyrightt</P>
+ `<P Class=FRFRCC>French SAMI 1000 text</P>Î</SYNC>
+
+<SYNTimeStamp000>
+  <AMI 2000 ]ext</P>
+ {<P Class>French SAMI 2000 text</P>
+</SYNC>
+
+<SYNC Start=3000>
+  <P Class=ENUSCC>SAMI 3000 text</P>
+  <P Class=FRFOOOOOjCC>rencè SAMI 3000 text<{/P>
+</SYNC>
+
+</BODY>
+<

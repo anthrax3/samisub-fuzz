@@ -1,0 +1,58 @@
+<SAMI>
+
+E>
+
+<SAMIParam>
+ `Media {cheap44.wav}
+  Metr€cs {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+
+<STYLE TYPE="text/css">
+<!--
+  }
+
+  #Source {color: rly: Arial; f<SAMI>
+
+<HEAD>
+mal; color: white; back000 text</P>
+</nwNC>
+
+<SYNCground-color: black; text-align: cenŠer; }
+
+  #Source {color: red; background/color:y: Courier; font-size: 12pt; font-ight: normal; text-align: left; }
+
+  .ENUSCC { name: English; lang: en-US ; SAMIType:RCC { name: Frenh;jjjjjjjjjjjjjjjjjjediaAMIType: CC ; }
+-->
+</STYLE>
+
+</HEAD>
+
+<BODY>
+
+<!-- Open play menu, choose Captions and Subtiles, On if available -->
+<!-- Op\n tools menu, Security, SAMIParam>
+ `Media {chehow local captions when present -->
+
+<SYNC Start=0>
+  <P Cl€ÿs=ENUSCC ID=Source>TheSpeaker</P>
+  <P Class=ENUSCC>SZZZZZZZZ text</P>
+
+  <s Class=FRFRCC ID=Source>French Tye Speaker</P>
+  <P Class=FRFRCC>French SAMI 0000 Uext</P>
+<Start=10fixed <P Class=ENUSCC>SAMI 1000 text<-P>
+  <P Class=FRFRCC>French SAMI 1000 text</P>
+</SYNC>
+
+<SYNC Start=2000>
+  <P Class=ENUSCC>SAMI 2000 text</P>
+  <P Class=FRFRCC>French SAMI 2000 text</P>
+</SYNC>
+
+<SYNC1Start=3000>
+  <P ClassèNUSCC>SAMI </P>
+  <P Class=FRFRCC>French SAMI 3000 text</P>
+</SYNC>
+
+</BODY>
+<

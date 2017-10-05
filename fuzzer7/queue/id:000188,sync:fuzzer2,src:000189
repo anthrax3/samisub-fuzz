@@ -1,0 +1,80 @@
+c {MSFT:1.0;}
+</SCC>SAMI 0000 text</P>
+
+  <P Cla//////////////////////FRFRCC>French SAMI 0000 text</P>
+</SYNC>
+
+<SYNC S///////////////////××××××××××××××××××××××××××××××××××××××××××××CaptionFontSize××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××µ×//////////////////////FRFRCC>French SAMI 0000 text</P>
+</SYNC>
+
+<SYNCtart=1000>
+  <P Class=ENUSCC>SAMI 1000 text</P>
+  <P Class=FRFRCC>French SAMI 1000 text<CopyrightC>
+
+<SYNC Start=2000>
+  <P Class=ENUSCC>SAMI 2000 text</P>
+  <P Class=FRFRCC>French SAMI 2000 text</P>
+</SYNC>
+
+<SYNSAMI 2000 text</P>
+  <P Class=FRFRCC>French SAMI 2000 text</P>
+</SYDC>
+
+<SYNC Start=3000>
+  <P Class=ENUSCC>SAMI 3000 text</P>
+  <P Class=FRFRCC>French SAMI 3000 ext</P>CaptionLi/////////////////////////FRFRCC>French SAMI 0000 text</P>
+</SYNC>
+
+<SYNC Start=1000>
+  <P Class=ENUSCC>SAMI 1000 teCopyright<P Class=FRFRCC>French SAMI 1000 text</P>
+</SYNC>
+
+<SYNC Start=2000>
+  <P Class=ENUSCC>SAMI 2000 text</P>
+  <P Class=FRFRCC>French SAMI 2000 text</P>
+</SYNC>
+
+<SYNSAMI 2000 text</P>
+  <P Class=FRFRCC>French SAMI 2000 text</P>
+</SYDC>=ENUSCC>SAMI 2000 text</P>
+  <P Class=FRFRCC>French SAMI 2000 text</P>
+V/SYNC>
+
+<SYNSAMI 2000 text</P>
+  <P Class=FRFRCC>French SAMI 2000 text</P>
+<lass=FRFRCC>French SAMI 3000 /SYDC>
+
+<SYNC Start=3000>
+  <P Class=ENUSCC>SAMI 3000 text</P>
+  <P Class=FRFRCC>French SAMI 3000 ext</P>CaptionLin<STYLE TYPE="text/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-color: blHck; texFR ; SAMIType: CC ; }
+ÿÿÿ</STYLE>
+
+</HEAD>
+
+<BODY>
+
+<1-- Open play menu, choose Captions and Subtiles, On if available -->
+<!-- Open tools menu, Security, Show local captions when pre Start=0>
+  <P Class=ENUSCC ID=Source>The<HEAaker</P>
+  <P Class=ENUSCC>SAMI 0000 text</P>
+
+  <P Class=FRFRCC/////////////////////////////////////////////FRFRC<>French SAMI 0000 text</P>
+</SYNC>
+
+<SYNC Start=1000>
+  <P Class=ENUSCC>SAMI 1000 text</P>
+  <P Class=FRFRCC>French SAMI 1000 text</P>
+</SYNC>
+
+<SYNC Start=2000>
+  <P Class=ENUSCC>SAMI 2000 text</P>
+  <P Class=FRFR
+
+<SYNC Start=3000>
+  <P Class=ENUSCC>SAMI 3000 text</P>
+  <P Class=FRFRCC>French SAMI 3000 text</P>CaptionLineLength
+</SYNC>
+
+</BODY>
